@@ -1,5 +1,5 @@
 <Motd>                            
-  <MessageDefinition DisplayFrom="1728306000" DisplayUntil="1728306000" Priority="1" IsEnabled="true">
+  <MessageDefinition DisplayFrom="1728224163" DisplayUntil="1728306000" Priority="1" IsEnabled="true">
     <Message Language="en">Welcome to Ragdoll Rumble. We hope you enjoy the demo and get a taste of what will come when the full game is released.</Message>
     <Message Language="fr">Bienvenue dans Ragdoll Rumble. Nous espérons que vous apprécierez la démo et que vous aurez un avant-goût de ce qui arrivera lors de la sortie du jeu complet.</Message>
     <Message Language="es">Bienvenidos a Ragdoll Rumble. Esperamos que disfrutes de la demostración y pruebes lo que vendrá cuando se lance el juego completo.</Message>
