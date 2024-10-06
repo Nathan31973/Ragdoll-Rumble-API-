@@ -5,6 +5,6 @@
     <Message Language="es">Bienvenidos a Ragdoll Rumble. Esperamos que disfrutes de la demostración y pruebes lo que vendrá cuando se lance el juego completo.</Message>
     <Message Language="it">Benvenuti a Ragdoll Rumble. Ci auguriamo che la demo ti piaccia e che tu abbia un assaggio di ciò che accadrà quando verrà rilasciato il gioco completo.</Message>
     <Message Language="de">Willkommen bei Ragdoll Rumble. Wir hoffen, dass Ihnen die Demo gefällt und Sie einen Vorgeschmack darauf bekommen, was Sie erwartet, wenn das vollständige Spiel veröffentlicht wird.</Message>
-    <Image> ENTER URL </Image>
+    <Image></Image>
   </MessageDefinition>
 </Motd>
