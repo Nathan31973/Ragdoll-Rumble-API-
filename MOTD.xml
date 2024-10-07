@@ -6,7 +6,7 @@
     <Message Language="es">Bienvenidos a Ragdoll Rumble. Esperamos que disfrutes de la demostración y pruebes lo que vendrá cuando se lance el juego completo.</Message>
     <Message Language="it">Benvenuti a Ragdoll Rumble. Ci auguriamo che la demo ti piaccia e che tu abbia un assaggio di ciò che accadrà quando verrà rilasciato il gioco completo.</Message>
     <Message Language="de">Willkommen bei Ragdoll Rumble. Wir hoffen, dass Ihnen die Demo gefällt und Sie einen Vorgeschmack darauf bekommen, was Sie erwartet, wenn das vollständige Spiel veröffentlicht wird.</Message>
-    <Image></Image>
+    <Media Type="none"></Media>
   </MessageDefinition>
     <MessageDefinition DisplayFrom="1728224348" DisplayUntil="1728392400" Priority="1" IsEnabled="true">
     <Title Language="en">Welcome to Ragdoll Rumble Demo</Title>
@@ -14,11 +14,11 @@
     <Title Language="es">Bienvenido a la demostración de Ragdoll Rumble</Title>
     <Title Language="it">Benvenuti alla demo di Ragdoll Rumble</Title>
     <Title Language="de">Willkommen zur Ragdoll Rumble-Demo</Title>
-    <Message Language="en">We excited that you join our soft launch of the demo. Expects some bugs and balance issues while we still in our soft launch pahse.{NewLine}Our full launch is on OCT 14th. </Message>
+    <Message Language="en">We excited that you join our soft launch of the demo. Expects some bugs and balance issues while we still in our soft launch phase.{NewLine}Our full launch is on OCT 14th. </Message>
     <Message Language="fr">Bienvenue dans Ragdoll Rumble. Nous espérons que vous apprécierez la démo et que vous aurez un avant-goût de ce qui arrivera lors de la sortie du jeu complet.</Message>
     <Message Language="es">Bienvenidos a Ragdoll Rumble. Esperamos que disfrutes de la demostración y pruebes lo que vendrá cuando se lance el juego completo.</Message>
     <Message Language="it">Benvenuti a Ragdoll Rumble. Ci auguriamo che la demo ti piaccia e che tu abbia un assaggio di ciò che accadrà quando verrà rilasciato il gioco completo.</Message>
     <Message Language="de">Willkommen bei Ragdoll Rumble. Wir hoffen, dass Ihnen die Demo gefällt und Sie einen Vorgeschmack darauf bekommen, was Sie erwartet, wenn das vollständige Spiel veröffentlicht wird.</Message>
-    <Image></Image>
+    <Media Type="none"></Media>
   </MessageDefinition>
 </Motd>
