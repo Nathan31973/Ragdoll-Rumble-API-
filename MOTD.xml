@@ -8,7 +8,7 @@
     <Message Language="de">Willkommen bei Ragdoll Rumble. Wir hoffen, dass Ihnen die Demo gefällt und Sie einen Vorgeschmack darauf bekommen, was Sie erwartet, wenn das vollständige Spiel veröffentlicht wird.</Message>
     <Media Type="none"></Media>
   </MessageDefinition>
-    <MessageDefinition DisplayFrom="1728224348" DisplayUntil="1728392400" Priority="1" IsEnabled="true">
+    <MessageDefinition DisplayFrom="1728224348" DisplayUntil="1728925200" Priority="1" IsEnabled="true">
     <Title Language="en">Welcome to Ragdoll Rumble Demo</Title>
     <Title Language="fr">Bienvenue dans la démo de Ragdoll Rumble</Title>
     <Title Language="es">Bienvenido a la demostración de Ragdoll Rumble</Title>
