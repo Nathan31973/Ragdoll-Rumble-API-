@@ -19,6 +19,6 @@
     <Message Language="es">Bienvenidos a Ragdoll Rumble. Esperamos que disfrutes de la demostración y pruebes lo que vendrá cuando se lance el juego completo.</Message>
     <Message Language="it">Benvenuti a Ragdoll Rumble. Ci auguriamo che la demo ti piaccia e che tu abbia un assaggio di ciò che accadrà quando verrà rilasciato il gioco completo.</Message>
     <Message Language="de">Willkommen bei Ragdoll Rumble. Wir hoffen, dass Ihnen die Demo gefällt und Sie einen Vorgeschmack darauf bekommen, was Sie erwartet, wenn das vollständige Spiel veröffentlicht wird.</Message>
-    <Media Type="image">https://media.discordapp.net/attachments/1211465039085572198/1293033812481019975/Next_Fest_Square.png?ex=67088a14&is=67073894&hm=62a8b06ad24335a347bb0ff0055e993876741bd8eb8b388d768b24d476a9f238&</Media>
+    <Media Type="image">https://raw.githubusercontent.com/Nathan31973/Ragdoll-Rumble-API-/refs/heads/main/Next%20Fest%20Square.png</Media>
   </MessageDefinition>
 </Motd>
