@@ -4,12 +4,12 @@
     <Message Language="en">We’re thrilled to have you join the chaos during Steam Next Fest! This demo is just a sneak peek of the fun and madness coming your way in the full game.{NewLine}{NewLine}Enjoy the brawling action with friends locally or through Steam Remote Play. If you're having a blast, don't keep it to yourself! Share your wildest moments online and tag us with #RagdollRumble so we can celebrate your highlights with the community.{NewLine}{NewLine}Thanks for playing, and let the chaos begin!</Message>
     <Media Type="none"></Media>
   </MessageDefinition>
-    <MessageDefinition DisplayFrom="1729301400" DisplayUntil="1729324200" Priority="1" IsEnabled="true">
+    <MessageDefinition DisplayFrom="1729301400" DisplayUntil="1729301400" Priority="1" IsEnabled="true">
     <Title Language="en">New Patch Comming Soon</Title>
     <Message Language="en">This new patch will include more quality-of-life improvements to the UI, bugs fixes and make connecting controllers easier. {NewLine}{NewLine}Remember: Steam Remote Play is enabled, so you and your friends can play.</Message>
     <Media Type="none"></Media>
   </MessageDefinition>
-    <MessageDefinition DisplayFrom="1729324200" DisplayUntil="1729410600" Priority="1" IsEnabled="true">
+    <MessageDefinition DisplayFrom="1729301400" DisplayUntil="1729410600" Priority="1" IsEnabled="true">
     <Title Language="en">New Patch Is Live</Title>
     <Message Language="en">This new patch includes quality-of-life improvements and bug fixes. Here is a summary of the change log.{NewLine}{NewLine}- Player selection screen quality of life improvements{NewLine}- Better controller detections{NewLine}- Audio bugs related to music fix{NewLine}- Demo mode play max plays cap remove{NewLine}{NewLine}To see a full detail list of the patch. Check the Announcements page in our Steam community hub. {NewLine}{NewLine}Remember: Steam Remote Play is enabled, so you and your friends can play.</Message>
     <Media Type="none"></Media>
